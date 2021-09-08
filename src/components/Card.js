@@ -3,7 +3,7 @@
  * @description: 
  * @date: 07/septiembre/2021
 **/
-import React, { Children, useState } from 'react';  
+import React, { useState } from 'react';   
 
 const Card = (props) => {
     const { title, children, icon, color } = props;
