@@ -13,10 +13,11 @@ import team from './asset/svgs/icon-team-builder.svg';
 const App = (props) => {
   return (
     <section className="container">
-      <h2 className="not-blod">Reliable, efficient delivery</h2>
-      <h2>Powered by Technology</h2>
-      <p>Our Artificial intelligence powered tools use millons of project data points to ensure that your project is successful</p>
-     
+      <div className="header"> 
+        <h2 className="not-blod">Reliable, efficient delivery</h2>
+        <h2>Powered by Technology</h2>
+        <p className="paragraph-title">Our Artificial intelligence powered tools use millons of project data points to ensure that your project is successful</p>
+      </div>
       <div className="content">
         <div className="col"> 
           <Card

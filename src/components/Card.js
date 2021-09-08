@@ -9,11 +9,17 @@ const Card = (props) => {
     const { title, children, icon, color } = props;
     return (
         <div className={`card ${color}`}>
-            <div className="title">{title}</div>
-            <div className="body">
-                {children}
+            <div className="card-container">
+                <div className="title">{title}</div>
+                <div className="body">
+                    <p className="paragraph">
+                        {children}
+                    </p>
+                </div>
+                <div className="footer">
+                    <img className="image" alt={title} src={icon} />
+                </div>
             </div>
-            <img className="image" alt={title} src={icon} />
         </div>
     );
 }
