@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/four-card-feature-section-master/static/css/main.e35c0345.chunk.css",
-    "main.js": "/four-card-feature-section-master/static/js/main.8fc21d75.chunk.js",
-    "main.js.map": "/four-card-feature-section-master/static/js/main.8fc21d75.chunk.js.map",
+    "main.js": "/four-card-feature-section-master/static/js/main.afe144fa.chunk.js",
+    "main.js.map": "/four-card-feature-section-master/static/js/main.afe144fa.chunk.js.map",
     "runtime-main.js": "/four-card-feature-section-master/static/js/runtime-main.717f2833.js",
     "runtime-main.js.map": "/four-card-feature-section-master/static/js/runtime-main.717f2833.js.map",
     "static/js/2.c27d3f6d.chunk.js": "/four-card-feature-section-master/static/js/2.c27d3f6d.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.717f2833.js",
     "static/js/2.c27d3f6d.chunk.js",
     "static/css/main.e35c0345.chunk.css",
-    "static/js/main.8fc21d75.chunk.js"
+    "static/js/main.afe144fa.chunk.js"
   ]
 }
